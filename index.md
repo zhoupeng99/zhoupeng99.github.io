@@ -24,45 +24,16 @@
 	Open source code: <a href="https://github.com/zhoupeng99/">github.com/zhoupeng99</a>
 	<hr>
 
-	<h3 class="STYLE1">Research experience(2017~present)</h3>
-	<ul>
-      <li><br>
-	  <ul>
-	</ul>	
-
-	<hr>
+<h3 class="STYLE1">Research experience(2017~present)</h3>
 	
-	<h3 class="STYLE1">Education experience: </h3>
-	<ul>
-      <li><strong>9/2021~present: Master Candidate</strong><br>
-	  <ul>
-      <li>Expected: Jun 2024<br>
-      </ul>
-	  <ul>
-      <li>>UPC, China University of Petroleum.<br>
-      </ul>
-	</ul>	
-	<ul>
-      <li><strong>9/2017~6/2021: Postgraduate Student</strong><br>
-	  <ul>
-      <li>UPC, China University of Petroleum.<br>
-      </ul>
-	</ul>
-
-	<hr>
-
-	<h3 class="STYLE1">Publications</h3>
-	<ul>
-	<li><p></p>
-    </ul>
-
-	<hr>
-	<h3 class="STYLE1">Awards and honors</h3>
-	<ul>
-	<li><p></p>
-	</ul>
-	<br>
-
+<h3 class="STYLE1">Education experience: </h3>
+<strong>9/2021~present: Master Candidate</strong><br>
+Expected: Jun 2024<br>
+UPC, China University of Petroleum.<br>
+<strong>9/2017~6/2021: Postgraduate Student</strong><br>
+UPC, China University of Petroleum.<br>
+<hr>
+<h3 class="STYLE1">Publications</h3>
+<hr>
+<h3 class="STYLE1">Awards and honors</h3>
 </body>
-
-</html>
