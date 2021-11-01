@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<head>
+  <title> Peng Zhou, China University of Petroleum.</title>
+  <meta name="Generator" content="EditPlus">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <meta http-equiv="content-type" content="text/html; charset=gb2312" />
+  <meta http-equiv="Content-Language" content="en-us">
+  <style type="text/css">
+<!--
+.STYLE1 {font-family: "Arial", Times, serif}
+-->
+  </style>
+</head>
 
-You can use the [editor on GitHub](https://github.com/zhoupeng99/zhoupeng99.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<body>
+	<div style="float: left;"><img src="photo/photo_jszhang.jpg" hspace="10" width="168" height="180"></div>
+	<h2>Peng Zhou 周鹏 <font size="1">&nbsp; </font></h2>
+	<p>
+	<a target = "_new" href="http://www.upc.edu.cn">China University of Petroleum(UPC)</a><br>
+	No.66, Changjiangxi Road, Qingdao, Shandong, 266580, China.<br>
+	</p>
+	E-mail: <a href="mailto:S21070041@s.upc.edu.cn">S21070041@s.upc.edu.cn</a><br>
+	Open source code: <a href="https://github.com/zhoupeng99/">github.com/zhoupeng99</a>
+	<hr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	<h3 class="STYLE1">Research experience(2017~present)</h3>
+	<ul>
+      <li><br>
+	  <ul>
+	</ul>	
 
-### Markdown
+	<hr>
+	
+	<h3 class="STYLE1">Education experience: </h3>
+	<ul>
+      <li><strong>9/2021~present: Master Candidate</strong><br>
+	  <ul>
+      <li>Expected: Jun 2024<br>
+      </ul>
+	  <ul>
+      <li>>UPC, China University of Petroleum.<br>
+      </ul>
+	</ul>	
+	<ul>
+      <li><strong>9/2017~6/2021: Postgraduate Student</strong><br>
+	  <ul>
+      <li>UPC, China University of Petroleum.<br>
+      </ul>
+	</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<hr>
 
-```markdown
-Syntax highlighted code block
+	<h3 class="STYLE1">Publications</h3>
+	<ul>
+	<li><p></p>
+    </ul>
 
-# Header 1
-## Header 2
-### Header 3
+	<hr>
+	<h3 class="STYLE1">Awards and honors</h3>
+	<ul>
+	<li><p></p>
+	</ul>
+	<br>
 
-- Bulleted
-- List
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhoupeng99/zhoupeng99.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
